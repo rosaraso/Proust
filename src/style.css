@@ -1,0 +1,31 @@
+#header {
+  transition: all 150ms ease-in-out;
+  box-sizing: border-box;
+  color: rgb(33, 37, 41);
+  font-size: 14px;
+  line-height: 21px;
+  text-size-adjust: 100%;
+}
+.banner {
+  background: linear-gradient(0, #f7f3ff 0%, #fff 100%);
+  width: 1600px;
+  height: 500px;
+}
+.content {
+  margin: 0 auto;
+  padding: 0 30px;
+  max-width: 1160px;
+  margin: 0 auto;
+}
+
+.content-inner {
+  max-width: 1020px;
+  margin: 0 auto;
+  padding: 30px;
+}
+
+#header-left,
+#header-right {
+  height: 465px;
+  width: 465px;
+}
